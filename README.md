@@ -1,1 +1,1 @@
-# Prompt Factory Repo for creating prompts for various tasks
+Prompt Factory Repo for creating prompts for various tasks
