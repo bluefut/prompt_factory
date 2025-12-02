@@ -1,2 +1,1 @@
-# prompt_factory
-Prompt templates for various projects
+# Prompt Factory Repo for creating prompts for various tasks
